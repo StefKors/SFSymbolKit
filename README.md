@@ -4,7 +4,7 @@
 <h1 align="center">SFSymbolKit</h1>
 </p>
 
-![SFSymbolKit](https://github.com/StefKors/SFSymbolKit) The full collection of type safe SFSymbols for your app.
+![SFSymbolKit](https://github.com/StefKors/SFSymbolKit) The full collection of "type-safe" SFSymbols for your app. Uses [SFSymbolsMacro](https://github.com/lukepistrol/SFSymbolsMacro) under the hood.
 
                #### Supported Platforms
                <p align="left">
