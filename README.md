@@ -9,12 +9,6 @@
 #### Supported Platforms
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Images/icon-macos-f.svg">
-    <source media="(prefers-color-scheme: light)" srcset="Images/icon-macos-f-i.svg">
-    <img alt="macos active" src="Images/icon-macos-f-i.svg" height="24">
-  </picture>
-
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Images/icon-ios-f-i.svg">
     <source media="(prefers-color-scheme: light)" srcset="Images/icon-ios-f.svg">
     <img alt="ios inactive" src="Images/icon-ios-f.svg" height="24">
@@ -24,6 +18,12 @@
     <source media="(prefers-color-scheme: dark)" srcset="Images/icon-ipados-f-i.svg">
     <source media="(prefers-color-scheme: light)" srcset="Images/icon-ipados-f.svg">
     <img alt="ipados inactive" src="Images/icon-ipados-f.svg" height="24">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Images/icon-macos-f-i.svg">
+    <source media="(prefers-color-scheme: light)" srcset="Images/icon-macos-f.svg">
+    <img alt="macos inactive" src="Images/icon-macos-f.svg" height="24">
   </picture>
 
   <picture>
